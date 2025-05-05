@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/unai_razkin/Desktop/FRIKADAK/Concurso_3Blue1Brown/Video-divulgativo-3-blue-1-brown/media/videos/Video-divulgativo-3-blue-1-brown/720p30/partial_movie_files/LagRatios/274514146_3927304614_3271546545.mp4'
+file 'file:/Users/unai_razkin/Desktop/FRIKADAK/Concurso_3Blue1Brown/Video-divulgativo-3-blue-1-brown/media/videos/Video-divulgativo-3-blue-1-brown/720p30/partial_movie_files/LagRatios/2789044632_874791007_1917521319.mp4'
